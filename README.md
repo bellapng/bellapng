@@ -64,6 +64,3 @@ Mental health desktop app with journaling, mood tracking, and activity logging. 
 I’m a curious homebody who loves reading science fiction, hiking when the weather’s nice, and winding down with cozy playlists and a good story. If you’re working on something meaningful in the AI/ML space (especially ethical AI), let’s chat!
 
 ---
-
-## 📈 Stats
-![Bella's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellapng&show_icons=true&theme=transparent)
