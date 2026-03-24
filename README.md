@@ -1,66 +1,91 @@
 # 👋 Hi, I'm Isabella!
 
 🎓 Senior at UT Dallas majoring in Computer Science  
-🔍 Passionate about Machine Learning, Ethical AI, and all things data-driven
+🔍 Machine Learning | Data Science | Responsible AI  
 
 ---
 
-Before discovering computer science, I was drawn to physics and cosmology—fueled by a deep desire to understand how the universe works (shoutout to Carl Sagan!). My curiosity eventually led me to machine learning, thanks to sports analytics and real-time stats during games like strikeout probabilities or 4th and 1 decisions that made me ask: *Where does that number come from?*
+Before discovering computer science, I was drawn to physics and cosmology, I was fueled by a deep desire to understand how the universe works (shoutout to Carl Sagan!). My curiosity eventually led me to machine learning, thanks to sports analytics and real-time stats during games like strikeout probabilities or 4th and 1 decisions that made me ask: *Where does that number come from?*
 
 Today, I’m focused on building a career around **ethical, human-centered AI**, exploring real-world impact through data, and always learning along the way. Through coursework, hands-on projects, and the [Break Through Tech AI Fellowship](https://www.nytimes.com/2024/05/15/technology/ai-internships-female-students-cornell-mit-ucla.html) at Cornell Tech, I’m developing a strong foundation in the **machine learning lifecycle**, **model evaluation**, and **responsible innovation**.
 
 ---
 
-## 🎯 Featured Project: [Neural Network Optimization](https://github.com/bellapng/Neural-Network-Optimization)
+## 🚀 Featured Projects
 
-**What I Did:**  
-Explored and tuned neural network models using scikit-learn to compare performance across configurations.
+### 🔥 [WiDS Datathon 2026 – Wildfire Survival Analysis](https://github.com/bellapng/WiDS-Datathon2026)
 
-**Tools Used:**  
-Python, scikit-learn, pandas, and matplotlib.
+**What I Did:**
+Built survival analysis models (Cox Proportional Hazards + XGBoost (future)) to predict wildfire threats to evacuation zones using only the first 5 hours of incident data.
 
-**Outcome:**  
-Learned how hyperparameter tuning and evaluation strategies impact model generalization and documented insights in a full report.
+**Tech Stack:**
+Python, pandas, scikit-learn, survival analysis
+
+**Impact:**
+
+* Forecasted risk across 12, 24, 48, and 72-hour windows
+* Engineered spatial + early-incident features
+* Optimized using C-index + weighted Brier score for calibrated, decision-ready predictions
 
 ---
 
-## 🚧 In Progress: Break Through Tech AI Fellowship
+### 📊 [YouTube Intelligence Platform](https://github.com/Team-3-Sarac/Team-3-Sarac)
 
-- **Summer**: Completing a Machine Learning Foundations curriculum, using industry tools to analyze real-world datasets.
-- **Fall & Spring**: Tackling real-world ML Studio projects with academic and industry mentors.
-- **Ongoing**: Receiving mentorship and coaching, participating in case studies, and building a professional AI portfolio.  
+**What I Did:**
+Participated in developing a full-stack analytics platform to track and analyze YouTube engagement data.
+
+**Tech Stack:**
+Python, pandas, scikit-learn, React, YouTube Data API
+
+**Impact:**
+
+* Built data pipelines for video-level metrics
+* Created an interactive React dashboard for real-time insights
+* Enabled trend scoring and creator performance analysis
+
+---
+
+### 🤖 [Break Through Tech AI Fellowship (Cornell Tech)](https://github.com/anote-ai/btt-anote1a)
+
+**What I Did:**
+Worked on a industry-sponsored ML project focused on building a **production-ready multilingual RAG chatbot**.
+
+**Key Contributions:**
+
+* Sourced multilingual dataset and created the pre-processing pipeline.
+* Designed multilingual evaluation framework (9,000+ document chunks, 400 QA pairs)
+* Found local models outperforming commercial APIs in semantic similarity
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, Java, C++  
-- **Data Science/ML:** Pandas, NumPy, scikit-learn, SQL  
-- **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub  
-- **Concepts:** Model Evaluation, ML Lifecycle, Data Analysis  
-- **Interests:** Ethical AI, NLP, AI for mental health, Sci-Fi/Fantasy novels 👾
+* **Languages:** Python, Java, SQL
+* **ML/Data:** pandas, NumPy, scikit-learn, Survival Analysis, RAG
+* **Tools:** Jupyter, Git, GitHub
+* **Frontend:** React
+* **Concepts:** ML Lifecycle, Model Evaluation, Data Pipelines
 
 ---
 
 ## 📌 Other Projects
 
-### [Mindscape](https://github.com/bellapng/Mindscape)
-Mental health desktop app with journaling, mood tracking, and activity logging. Built in JavaFX with future ML integration in mind.
+### 💡 [Mindscape](https://github.com/bellapng/Mindscape)
 
-- **Tech Stack:** Java, JavaFX
-- **Learnings:** UI development, data structuring for analytics, user-centered design
-  
+Mental health desktop app with journaling and mood tracking (JavaFX)
+
+* Focused on user-centered design and future ML integration
+* Built structured data systems for behavioral insights
+
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 Email: bellaxcastle@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/39isabellacastillo](https://www.linkedin.com/in/39isabellacastillo)  
-- 💻 GitHub: [github.com/bellapng](https://github.com/bellapng)  
+* 📧 Email: [bellaxcastle@gmail.com](mailto:bellaxcastle@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/39isabellacastillo](https://www.linkedin.com/in/39isabellacastillo)
 
 ---
 
-## ✨ Personal Tidbit
-I’m a curious homebody who loves reading science fiction, hiking when the weather’s nice, and winding down with cozy playlists and a good story. If you’re working on something meaningful in the AI/ML space (especially ethical AI), let’s chat!
+## ✨ Personal Note
 
----
+I’m a curious homebody who loves sci-fi novels, hiking, and meaningful conversations about AI and the future. I am always excited to learn, build, and collaborate on impactful ideas.
